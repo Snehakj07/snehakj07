@@ -10,7 +10,7 @@
 - **Cloud & Data Engineering** – Optimized pipelines on **AWS & SQL**, cutting query times by **40%**.
 
 ## 📫 Let’s Connect
-📧 **sk3179@scarletmail.rutgers.edu**  or **snehakjagannath@gmail.com**
+📧 **sk3179@scarletmail.rutgers.edu**  or **snehakjagannath@gmail.com**                                                                                             
 🔗 [**LinkedIn**](https://linkedin.com/in/snehakj07) | 🐙 [**GitHub**](#) | [**Tableau**](https://public.tableau.com/app/profile/sneha.jagannatha.kuntoji/vizzes) 
 
 🚀 Always open to collaboration on data-driven projects!
