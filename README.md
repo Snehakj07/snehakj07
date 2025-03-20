@@ -10,11 +10,6 @@
 - **Cloud & Data Engineering** – Optimized pipelines on **AWS & SQL**, cutting query times by **40%**.
 - **Teaching & Mentorship** – Teaching Assistant at Rutgers, guiding **150+ students** in Data Visualization.
 
-## 🚀 Featured Projects
-🔹 **Retail Inventory Optimization** – Power BI & SQL-based analytics to reduce stockouts by **30%**.  
-🔹 **Credit Card Fraud Detection** – Machine learning model with **92% accuracy**.  
-🔹 **BI Dashboards** – Dynamic insights using Tableau & Power BI.  
-
 ## 📫 Let’s Connect
 📧 **sk3179@scarletmail.rutgers.edu**  
 🔗 [**LinkedIn**](#) | 🐙 [**GitHub**](#)  
