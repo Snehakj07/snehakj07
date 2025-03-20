@@ -11,6 +11,6 @@
 
 ## 📫 Let’s Connect
 📧 **sk3179@scarletmail.rutgers.edu**  
-🔗 [**LinkedIn**](https://linkedin.com/in/snehakj07) | 🐙 [**GitHub**](#)  
+🔗 [**LinkedIn**](https://linkedin.com/in/snehakj07) | 🐙 [**GitHub**](#) | [**Tableau**](https://public.tableau.com/app/profile/sneha.jagannatha.kuntoji/vizzes) 
 
 🚀 Always open to collaboration on data-driven projects!
