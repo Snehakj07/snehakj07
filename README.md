@@ -1,4 +1,4 @@
-#👋 Hi, I'm Sneha Jagannatha Kuntoji
+👋 Hi, I'm Sneha Jagannatha Kuntoji
 
 🚀 Data Analyst | Business Intelligence | Machine Learning🔍 Passionate about transforming data into actionable insights.📊 Skilled in Python, SQL, Power BI, Tableau, AWS, and Data Engineering.
 
