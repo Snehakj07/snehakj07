@@ -11,6 +11,6 @@
 
 ## 📫 Let’s Connect
 📧 **sk3179@scarletmail.rutgers.edu**  
-🔗 [**linkedin.com/in/snehakj07**(#) | 🐙 [**GitHub**](#)  
+🔗  LinkedIn | 🐙 [**GitHub**](#)  
 
 🚀 Always open to collaboration on data-driven projects!
